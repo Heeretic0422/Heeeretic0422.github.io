@@ -16,6 +16,7 @@ a{
 .daily_image{
    background-repeat:  no-repeat;            
     background-position: center;
+    object-fit:cover;
     width:auto;
     height:auto; 
 }
