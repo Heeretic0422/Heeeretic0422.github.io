@@ -11,9 +11,12 @@ a{
   font-size:20px;
 }
 .box{
-   background-image:url(daily_image);  
-    background-repeat:  no-repeat;      
-    background-position: center;
     width:100%;
-    height:auto;
+}
+.daily_image{
+  background-repeat:  no-repeat; 
+  background-position: center; 
+  object-fit:cover; 
+  width:auto; 
+  height:auto;
 }
