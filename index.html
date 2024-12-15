@@ -4,6 +4,18 @@
  <title>bakeeeeeeeeeeeeeeeeeerrrrrrrrr</title>
  <link rel="stylesheet" href="sample.css">
   <link rel=”icon” href=“/image/favicon.ico”>
+  <img id="daily_image" src="dummy.jpg" alt="日替わり画像">
+<script>
+    (function() {
+        "use strict";
+        var target_id = "daily_image"
+          , image_list = ["sun.jpg", "mon.jpg", "tue.jpg", "wed.jpg", "thu.jpg", "fri.jpg", "sat.jpg"]
+          , target = document.getElementById(target_id)
+          , weekday = new Date().getDay();
+
+        target.src = image_list[weekday];
+
+    }());
  </head>
  <body>
  <h1>欲望</h1>
