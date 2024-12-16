@@ -22,15 +22,15 @@ html{
 }
 #daily_image{
     width:auto;
-    height:auto;
+    height:482px;
 }
 #daily1_image{
-    width:600px;
-    height:auto;
+    width:auto;
+    height:482px;
 }
 #daily2_image{
-    width:600px;
-    height:auto;
+    width:auto;
+    height:482px;
 }
 a{
   color:#eb34ba;
