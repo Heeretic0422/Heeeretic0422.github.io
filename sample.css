@@ -18,6 +18,6 @@ a{
   background-repeat:  no-repeat; 
   background-position: center; 
   object-fit:cover; 
-  width:auto; 
+  width:80%; 
   height:auto;
 }
