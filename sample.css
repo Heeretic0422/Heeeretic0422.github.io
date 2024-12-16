@@ -22,7 +22,7 @@ html{
 }
 .dummy.jpg{
     width:600px;
-    height:200px;
+    height:auto;
 }
 a{
   color:#eb34ba;
