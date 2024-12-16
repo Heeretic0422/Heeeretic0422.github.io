@@ -18,9 +18,11 @@ html{
   background-size:cover;
   text-align:center;
   width:1366px;
-  height:500px; 
-  width: 700px;
-　height: auto;
+  height:482px; 
+}
+dummy.jpg{
+    width:600px;
+    height:200px;
 }
 a{
   color:#eb34ba;
