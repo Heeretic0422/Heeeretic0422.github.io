@@ -22,20 +22,18 @@ html{
 }
 #daily_image{
     width:auto;
-    height:86%;
+    height:90%;
 }
 #daily1_image{
     width:auto;
-    height:86%;
+    height:90%;
 }
 #daily2_image{
     width:auto;
-    height:86%;
+    height:90%;
 }
 a{
   color:#eb34ba;
   font-size:20px;
   position:relative;
-　left:20px;
-  bottom:50px;
 }
