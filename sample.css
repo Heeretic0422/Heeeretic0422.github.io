@@ -12,10 +12,10 @@ h1{
 html{
   background-color:#1f1f1f;
 }
-.daily_image{
+.box{
   width:600px;
   height:600px;
-  background-image:url(mon.jpg);
+  background-image:url(dammy.jpg);
   background-repeat:no-repeat;
   background-size:600px auto;  
   background-position:center; 
