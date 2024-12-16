@@ -45,4 +45,30 @@
 
     }());
 </script>
+  <img id="daily1_image" src="dummy1.jpg" alt="日替わり画像1">
+<script>
+    (function() {
+        "use strict";
+        var target_id = "daily1_image"
+          , image_list = ["sun1.jpg", "mon1.jpg", "tue1.jpg", "wed1.jpg", "thu1.jpg", "fri1.jpg", "sat1.jpg"]
+          , target = document.getElementById(target_id)
+          , weekday = new Date().getDay();
+
+        target.src = image_list[weekday];
+
+    }());
+</script>
+  <img id="daily2_image" src="dummy2.jpg" alt="日替わり画像2">
+<script>
+    (function() {
+        "use strict";
+        var target_id = "daily2_image"
+          , image_list = ["sun2.jpg", "mon2.jpg", "tue2.jpg", "wed2.jpg", "thu2.jpg", "fri2.jpg", "sat2.jpg"]
+          , target = document.getElementById(target_id)
+          , weekday = new Date().getDay();
+
+        target.src = image_list[weekday];
+
+    }());
+</script>
  </div>
