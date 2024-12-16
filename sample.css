@@ -21,7 +21,7 @@ html{
   background-size:600px auto;  
   background-position:center; 
 .dummy.jpg{
-  background-position:center;  
+  text-align:center;  
 }
 a{
   color:#eb34ba;
