@@ -20,6 +20,8 @@ html{
   background-repeat:no-repeat;
   background-size:600px auto;  
   background-position:center; 
+.daily_image{
+  background-position:center;  
 }
 a{
   color:#eb34ba;
