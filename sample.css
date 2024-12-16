@@ -14,7 +14,7 @@ html{
 }
 .box{
   width:600px;
-  height:300px;
+  height:600px;
   background-image:url(daily_image);
   background-repeat:no-repeat;
   background-size:600px auto;  
