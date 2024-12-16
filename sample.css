@@ -18,9 +18,9 @@ html{
   background-size:cover;
   text-align:center;
   width:1366px;
-  height:500px;   
-#daily_image{
-  text-align:center;  
+  height:500px; 
+  width: 100%;
+　height: auto;
 }
 a{
   color:#eb34ba;
