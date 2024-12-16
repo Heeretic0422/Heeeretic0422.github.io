@@ -21,16 +21,16 @@ html{
   height:482px; 
 }
 #daily_image{
-    width:33%;
-    height:auto;
+    width:auto;
+    height:86%;
 }
 #daily1_image{
     width:auto;
-    height:482px;
+    height:86%;
 }
 #daily2_image{
     width:auto;
-    height:482px;
+    height:86%;
 }
 a{
   color:#eb34ba;
