@@ -12,8 +12,9 @@ h1{
 html{
   background-color:#1f1f1f;
 }
-daily_image{
-   background-size:cover; 
+.daily_image{
+   background-size:600px auto; 
+   background-repeat:no-repeat;
 }
 a{
   color:#eb34ba;
