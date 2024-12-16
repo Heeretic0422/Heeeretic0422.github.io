@@ -12,13 +12,13 @@ h1{
 html{
   background-color:#1f1f1f;
 }
-.box{
+.daily_image{
   width:600px;
   height:600px;
   background-image:url(dammy.jpg);
   background-repeat:no-repeat;
   background-size:600px auto;  
-  
+  background-position:center; 
 }
 a{
   color:#eb34ba;
