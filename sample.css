@@ -21,6 +21,14 @@ html{
   height:482px; 
 }
 #daily_image{
+    width:auto;
+    height:auto;
+}
+#daily1_image{
+    width:600px;
+    height:auto;
+}
+#daily2_image{
     width:600px;
     height:auto;
 }
