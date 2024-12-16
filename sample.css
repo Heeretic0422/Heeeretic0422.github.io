@@ -15,7 +15,7 @@ html{
 }
 .box{
   width:1366px;
-  height:560px;
+  height:500px;
   background-image:url(dummy.jpg);
   background-repeat:no-repeat;
   background-size:600px auto;  
@@ -25,4 +25,5 @@ a{
   color:#eb34ba;
   font-size:20px;
   position:relative;
+  bottom:30px;
 }
