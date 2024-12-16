@@ -10,14 +10,11 @@ a{
   color:#eb34ba;
   font-size:20px;
 }
-.box{
-    width:100%;
-    height:1366px;
 }
 .daily_image{
   background-repeat:  no-repeat; 
   background-position: center; 
   object-fit:cover; 
   width:80%; 
-  height:auto;
+  height:80%;
 }
