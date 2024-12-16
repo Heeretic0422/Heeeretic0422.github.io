@@ -21,8 +21,8 @@ html{
   height:482px; 
 }
 #daily_image{
-    width:auto;
-    height:482px;
+    width:33%;
+    height:auto;
 }
 #daily1_image{
     width:auto;
@@ -36,5 +36,6 @@ a{
   color:#eb34ba;
   font-size:20px;
   position:relative;
+　left:20px;
   bottom:50px;
 }
