@@ -11,10 +11,11 @@ a{
   font-size:20px;
 }
 }
-.daily_image{
+#daily_image{
   background-repeat:  no-repeat; 
   background-position: center; 
   object-fit:cover; 
+  text-align:center;
   width:80%; 
   height:80%;
 }
