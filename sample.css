@@ -58,7 +58,7 @@
 html{
   background-color:#000000;
 }
-.box{
+#box{
   background-image:url(dummy.jpg);
   background-repeat:no-repeat;
   background-size:cover;
@@ -78,7 +78,7 @@ html{
     width:auto;
     height:98%;
 }
-.cookie-img{
+#cookie-img{
   background-image:url(cookie-img.jpg);
   background-repeat:no repeat;
   background-size:cover;
