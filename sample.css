@@ -156,7 +156,9 @@ html{
   display: none;
   position:relative;
   color:#3d291a;
-  top:12px;
+  top:18px;
+  width:1px;
+  height:1px;
 }
 button{
   position:relative;
