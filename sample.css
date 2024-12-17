@@ -98,18 +98,16 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     bottom:100px;
   left:674px;
-  top:220px;
+  top:120px;
   width:100px;
 }
 #pixiv1{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     bottom:100px;
   left:567px;
-  top:160px;
+  top:60px;
   z-index:10;
   width:100px;
 }
@@ -117,18 +115,16 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     bottom:100px;
+  bottom:5px;
   left:1130px;
-  top:95px;
   width:100px;
 }
 #yu-tyura1{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     bottom:100px;
   left:1132px;
-  top:105px;
+  top:5px;
   z-index:10;
     width:100px;
 }
@@ -136,18 +132,16 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     bottom:100px;
   left:520px;
-  top:242px;
+  top:142px;
     width:200px;
 }
 #crocodile1{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     bottom:100px;
+  bottom:70px;
   left:950px;
-  top:30px;
     width:140px;
 }
 #github1{
@@ -156,7 +150,6 @@ html{
   font-size:20px;
      bottom:100px;
   left:240px;
-  top:0px;
   width:100px;
 }
 .hidden {
