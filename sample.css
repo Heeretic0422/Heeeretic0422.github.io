@@ -164,4 +164,6 @@ button{
   position:relative;
   color:#3d291a;
   top:18px;  
+  width:1px;
+  height:1px;
 }
