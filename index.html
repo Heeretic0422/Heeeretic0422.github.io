@@ -10,15 +10,15 @@
  <div class="cookie-img">
  <div class="botan" onclick="changeVisibility()">.</div>
  <script>
- const changeVisibility = () => {
-  var ele = $('#cookie-img');
+ const changeDisplay = () => {
+  var ele = document.getElementById('cookie-img');
  
-  if (ele.css('visibility') == 'hidden') {
-    ele.css('visibility', 'visible'); 
+  if (ele.style.display == 'none') {
+   ele.style.display = 'block'; 
   } else {
-    ele.css('visibility', 'hidden');
+    ele.style.display = 'none';
   }
-}
+};
  </script>
  <spam id="h2">
  <h1>欲望</h1>
