@@ -10,9 +10,10 @@
     height:90px;
 }
 .h{
+    position:relative;
     width:100%;
     height:598px;
-    top:0;
+    bottom:0;
 }
 #h3{
   position:relative;
@@ -58,7 +59,7 @@
 html{
   background-color:#000000;
 }
-#box{
+.box{
   background-image:url(dummy.jpg);
   background-repeat:no-repeat;
   background-size:cover;
@@ -78,7 +79,7 @@ html{
     width:auto;
     height:98%;
 }
-#cookie-img{
+.cookie-img{
   background-image:url(cookie-img.jpg);
   background-repeat:no repeat;
   background-size:cover;
