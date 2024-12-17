@@ -156,15 +156,12 @@ html{
   display: none;
   position:relative;
   color:#3d291a;
-  top:18px;
+  top:280px;
   left:700px;
   width:1px;
   height:1px;
 }
 button{
-  position:relative;
-  color:#3d291a;
-  top:18px;  
   width:1px;
   height:1px;
 }
