@@ -7,10 +7,7 @@
 }
 #ue{
     width:100%;
-    height:90px;
-    position:relative;
-    top:30px;
-    
+    height:90px;  
 }
 .h{
     position:relative;
@@ -27,43 +24,43 @@
   position:relative;
   color:#ff308d;
   font-size:20px;
-    top:30px;
+  bottom:30px;
 }
 #pixiv{
   position:relative;
   color:#ff308d;
   font-size:20px;
-    top:30px;
+bottom:30px;
 }
 #youtube{
   position:relative;
   color:#ff308d;
   font-size:20px;
-    top:30px;
+bottom:30px;
 }
 #yu-tyura{
   position:relative;
   color:#ff308d;
   font-size:20px;
-    top:30px;
+   bottom:30px;
 }
 #cookieclicker{
   position:relative;
   color:#ff308d;
   font-size:20px;
-    top:30px;
+   bottom:30px;
 }
 #crocodile{
   position:relative;
   color:#ff308d;
   font-size:20px;
-    top:30px;
+    bottom:30px;
 }
 #github{
   position:relative;
   color:#ff308d;
   font-size:20px;
-  top:30px;
+  bottom:30px;
 }
 html{
   background-color:#000000;
