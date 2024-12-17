@@ -122,3 +122,13 @@ a{
   bottom:113px;
   width:50px;
 }
+.box {
+  background: #000000;
+  border-radius: 4px;
+  color: #000000;
+  cursor: pointer;
+  height: 3px;
+  line-height: 3px;
+  user-select: none;
+  width: 3px;
+}
