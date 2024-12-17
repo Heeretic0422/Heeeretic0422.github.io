@@ -8,6 +8,17 @@
  </head>
  <body>
  <div id="botan" onclick="changeVisibility()">Click</div>
+ <script>
+ const changeVisibility = () => {
+  var ele = $('.box');
+ 
+  if (ele.css('visibility') == 'hidden') {
+    ele.css('visibility', 'visible'); 
+  } else {
+    ele.css('visibility', 'hidden');
+  }
+}
+ </script>
  <div class="cookie-img">
  <span id="h2">
  <h1>欲望</h1>
