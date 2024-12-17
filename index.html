@@ -7,11 +7,11 @@
  <meta name="robots" content="noindex" />
  </head>
  <body>
- <div class="cookie-img">
+ <div id="cookie-img">
  <div class="botan" onclick="changeVisibility()">.</div>
  <script>
  const changeVisibility = () => {
-  var ele = $('.cookie-img');
+  var ele = $('#cookie-img');
  
   if (ele.css('visibility') == 'hidden') {
     ele.css('visibility', 'visible'); 
@@ -75,7 +75,7 @@
  <a href="https://github.com/">github</a>
  </span>
  </div>
- <div class="box">
+ <div id="box">
  <img id="daily_image" src="dummy.jpg" alt="日替わり画像">
 <script>
     (function() {
