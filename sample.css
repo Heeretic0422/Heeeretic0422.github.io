@@ -87,7 +87,6 @@ html{
   height:598px;
   border-style:none;
   text-align:center;
-  z-index:10;
   }
 #h2{
   position:relative;
@@ -155,4 +154,7 @@ html{
 }
 .hidden {
   display: none;
+  position:relative;
+  color:#3d291a;
+  top:12px;
 }
