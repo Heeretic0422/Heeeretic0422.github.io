@@ -91,6 +91,7 @@ html{
 #h2{
   position:relative;
   font-size:70px;
+  bottom:;
   text-align:center;
   color:#000000;
 }
@@ -155,15 +156,6 @@ html{
 .hidden {
   display: none;
   position:relative;
-  color:#3d291a;
-  top:280px;
-  left:700px;
   width:1px;
   height:1px;
-}
-button{
-  width:1px;
-  height:1px;
-top:280px;
-  left:700px;
 }
