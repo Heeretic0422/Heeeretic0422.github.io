@@ -155,7 +155,8 @@ html{
 }
 .hidden {
   display: none;
-  position:relative;
+}
+button{
   width:1px;
   height:1px;
 }
