@@ -153,16 +153,6 @@ html{
   top:0px;
   width:100px;
 }
-.botan {
-  background: #7692b8;
-  border-radius: 4px;
-  color: #7692b8;
-  cursor: pointer;
-  height: 4px;
-  line-height: 4px;
-  text-align: center;
-  user-select: none;
-  position:relative;
-  width: 4px;
-  top:10px;
+.hidden {
+  display: none;
 }
