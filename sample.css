@@ -50,6 +50,7 @@ a{
   height:598px;
   border-style:none;
   text-align:center;
+  z-index:10;
   }
 #h2{
   font-size:133px;
