@@ -24,36 +24,43 @@
   position:relative;
   color:#ff308d;
   font-size:20px;
+    top:30px;
 }
 #pixiv{
   position:relative;
   color:#ff308d;
   font-size:20px;
+    top:30px;
 }
 #youtube{
   position:relative;
   color:#ff308d;
   font-size:20px;
+    top:30px;
 }
 #yu-tyura{
   position:relative;
   color:#ff308d;
   font-size:20px;
+    top:30px;
 }
 #cookieclicker{
   position:relative;
   color:#ff308d;
   font-size:20px;
+    top:30px;
 }
 #crocodile{
   position:relative;
   color:#ff308d;
   font-size:20px;
+    top:30px;
 }
 #github{
   position:relative;
   color:#ff308d;
   font-size:20px;
+  top:30px;
 }
 html{
   background-color:#000000;
@@ -163,5 +170,5 @@ button{
   width:1px;
   height:1px;
   z-index:100;
-  color:#000000;
+  background:#000000;
 }
