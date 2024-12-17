@@ -161,7 +161,8 @@ html{
 }
 .hidden {
   display: none;
-  
+  width:1px;
+  height:1px;
 }
 button{
   position:relative;
