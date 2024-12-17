@@ -4,6 +4,7 @@
 #ue{
     width:100%;
     height:90px;
+    z-index:-10;
 }
 h1{
   font-size:60px;
@@ -20,6 +21,7 @@ html{
   text-align:center;
   width:1366px;
   height:508px; 
+  Z-index:-10;
 }
 #daily_image{
     width:auto;
@@ -39,4 +41,84 @@ a{
   position:relative;
   bottom:55px;
   left:30px;
+}
+.cookie-img{
+  background-image:url(cookie-img.jpg);
+  background-repeat:no repeat;
+  background-size:cover;
+  width:1366px;
+  height:598px;
+  border-style:none;
+  text-align:center;
+  }
+#h2{
+  font-size:133px;
+  text-align:center;
+  color:#000000;
+}
+#twitter1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+  left:674px;
+  top:220px;
+  width:100px;
+}
+#pixiv1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+  left:567px;
+  top:160px;
+  z-index:10;
+  width:100px;
+}
+#youtube1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+  left:1130px;
+  top:95px;
+  width:100px;
+}
+#yu-tyura1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+  left:1132px;
+  top:105px;
+  z-index:10;
+    width:100px;
+}
+#cookieclicker1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+  left:520px;
+  top:242px;
+    width:200px;
+}
+#crocodile1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+  left:950px;
+  top:30px;
+    width:140px;
+}
+#github1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+  left:240px;
+  top:0px;
+    width:100px;
+}
+#x{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+  left:76px;
+  bottom:113px;
+  width:50px;
 }
