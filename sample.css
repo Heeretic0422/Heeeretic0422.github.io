@@ -1,6 +1,9 @@
 *{
     margin:0;
 }
+*{
+    outline: 2px red solid;
+}
 #ue{
     width:100%;
     height:90px;
