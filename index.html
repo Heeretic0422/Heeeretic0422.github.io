@@ -7,13 +7,16 @@
  <meta name="robots" content="noindex" />
  </head>
  <body>
- <input type="button" value="test button" onclick="clickedButton()">
+<button>.</button>
  <div class="cookie-img">
  <script>
-function clickedButton() {
-            let output = document.getElementById(".cookie-img");
-            output.innerHTML = "表示されました！";
-        }
+const button = document.querySelector('button');
+button.addEventListener('click', toggleDisplay);
+
+function toggleDisplay() {
+  const demo = document.querySelector('.cookie-img');
+  demo.classList.toggle('hidden');
+}
  </script>
  <spam id="h2">
  <h1>欲望</h1>
