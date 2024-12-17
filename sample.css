@@ -8,6 +8,46 @@
     width:100%;
     height:90px;
 }
+#h3{
+  font-size:60px;
+  text-align:center;
+  color:#ff308d;
+}
+#twitter{
+  position:relative;
+  color:#ff308d;
+  font-size:20px;
+}
+#pixiv{
+  position:relative;
+  color:#ff308d;
+  font-size:20px;
+}
+#youtube{
+  position:relative;
+  color:#ff308d;
+  font-size:20px;
+}
+#yu-tyura{
+  position:relative;
+  color:#ff308d;
+  font-size:20px;
+}
+#cookieclicker{
+  position:relative;
+  color:#ff308d;
+  font-size:20px;
+}
+#crocodile{
+  position:relative;
+  color:#ff308d;
+  font-size:20px;
+}
+#github{
+  position:relative;
+  color:#ff308d;
+  font-size:20px;
+}
 html{
   background-color:#000000;
 }
@@ -30,12 +70,6 @@ html{
 #daily2_image{
     width:auto;
     height:98%;
-}
-a{
-  font-size:20px;
-  position:relative;
-  bottom:55px;
-  left:30px;
 }
 .cookie-img{
   background-image:url(cookie-img.jpg);
