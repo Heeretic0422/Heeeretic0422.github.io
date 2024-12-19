@@ -163,7 +163,8 @@ html{
 }
 button{
   position:relative;
-  left:20px;  
+  right:600px; 
+  top:400px;
   width:1px;
   height:1px;
   z-index:100;
