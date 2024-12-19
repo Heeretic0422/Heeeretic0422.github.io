@@ -25,36 +25,43 @@ a:visited{
   position:relative;
   font-size:20px;
   bottom:65px;
+    right:10px;
 }
 #pixiv{
   position:relative;
   font-size:20px;
-bottom:65px;
+  bottom:65px;
+     right:10px;
 }
 #youtube{
   position:relative;
   font-size:20px;
 bottom:65px;
+     right:10px;
 }
 #yu-tyura{
   position:relative;
   font-size:20px;
    bottom:65px;
+     right:10px;
 }
 #cookieclicker{
   position:relative;
   font-size:20px;
    bottom:65px;
+     right:10px;
 }
 #crocodile{
   position:relative;
   font-size:20px;
     bottom:65px;
+     right:10px;
 }
 #github{
   position:relative;
   font-size:20px;
   bottom:65px;
+     right:10px;
 }
 html{
   background-color:#000000;
@@ -152,9 +159,6 @@ html{
      bottom:100px;
   left:235px;
   width:100px;
-}
-.tyairo{
-  color:#3d291a;
 }
 .hidden {
   display: none;
