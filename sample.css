@@ -1,8 +1,8 @@
 *{
     margin:0;
 }
-ue,a:visited{
-    color:#ff308d;
+a:visited{
+    color:inherit;
 }
 #ue{
     position:relative;
