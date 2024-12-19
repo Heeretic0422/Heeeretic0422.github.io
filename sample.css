@@ -1,6 +1,9 @@
 *{
     margin:0;
 }
+.ue:visited{
+	color:#00FF00;
+}
 .ue{
     position:relative;
     width:100%;
