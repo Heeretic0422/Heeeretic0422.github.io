@@ -1,10 +1,10 @@
 *{
     margin:0;
 }
-ue:visited{
+#ue:visited{
     color:#ff308d;
 }
-.ue{
+#ue{
     position:relative;
     width:100%;
     height:90px;  
