@@ -1,9 +1,6 @@
 *{
     margin:0;
 }
-*{
-    outline: 2px red solid;
-}
 .ue{
     position:relative;
     width:100%;
@@ -163,7 +160,7 @@ html{
 }
 button{
   position:relative;
-  right:620px; 
+  right:630px; 
   top:416px;
   width:1px;
   height:1px;
