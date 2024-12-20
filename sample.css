@@ -9,6 +9,7 @@ a:visited{
     width:100%;
     height:90px;  
     color:#ff308d;
+    z-index:4;
 }
 .deka{
     position:absolute;
