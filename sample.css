@@ -64,6 +64,7 @@ html{
   }
 #h2{
   position:relative;
+  bottom:20px;
   font-size:70px;
   text-align:center;
   color:#000000;
@@ -73,7 +74,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:674px;
-  top:210px;
+  top:190px;
   width:100px;
 }
 #pixiv1{
@@ -81,7 +82,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:567px;
-  top:150px;
+  top:130px;
   z-index:10;
   width:100px;
 }
@@ -89,7 +90,7 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-  top:85px;
+  top:65px;
   left:1130px;
   width:100px;
 }
@@ -98,7 +99,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:1132px;
-  top:95px;
+  top:75px;
   z-index:10;
     width:100px;
 }
@@ -107,14 +108,14 @@ html{
   color:#3d291a;
   font-size:20px;
   left:520px;
-  top:242px;
+  top:222px;
     width:200px;
 }
 #crocodile1{
   position:relative;
   color:#3d291a;
   font-size:20px;
-  top:30px;
+  top:10px;
   left:950px;
     width:140px;
 }
@@ -122,6 +123,7 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;  
+  top:20px;
   left:233px;
   width:100px;
 }
