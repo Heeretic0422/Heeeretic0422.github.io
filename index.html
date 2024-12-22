@@ -12,11 +12,17 @@
  <div class="botan">.</div>
 <script src="https://code.jquery.com/jquery.min.js"></script>
 <script>
-$(function() {
-    $(".botan").click(function() {
-        $(".h").toggleClass("C");
-    });
+const toggleButton = document.getElementById('botan');
+const toggleElement = document.getElementById('h');
+
+toggleButton.addEventListener('click', () => {
+    if (toggleElement.style.display === 'none' || toggleElement.style.display === '') {
+        toggleElement.style.display = 'block';
+    } else {
+        toggleElement.style.display = 'none';
+    }
 });
+
 </script>
  <spam id="h2">
  <h1>欲望</h1>
@@ -44,8 +50,7 @@ $(function() {
  </div>
  </div>
  </div>
- <div class="C">
- <div class="h">
+ <div class="h" style="display: none;">
  <div id="ue">
  <span id="h3">
  <h1>欲望</h1>
@@ -91,7 +96,6 @@ $(function() {
 
     }());
 </script>
- </div>
  </div>
  </div>
  </body>
