@@ -29,48 +29,6 @@ a:visited{
   text-align:center;
   color:#ff308d;
 }
-#twitter{
-  position:relative;
-  font-size:20px;
-  bottom:65px;
-    left:26px;
-}
-#pixiv{
-  position:relative;
-  font-size:20px;
-  bottom:65px;
-     left:26px;
-}
-#youtube{
-  position:relative;
-  font-size:20px;
-bottom:65px;
-     left:26px;
-}
-#yu-tyura{
-  position:relative;
-  font-size:20px;
-   bottom:65px;
-     left:26px;
-}
-#cookieclicker{
-  position:relative;
-  font-size:20px;
-   bottom:65px;
-     left:26px;
-}
-#crocodile{
-  position:relative;
-  font-size:20px;
-    bottom:65px;
-     left:26px;
-}
-#github{
-  position:relative;
-  font-size:20px;
-  bottom:65px;
-     left:26px;
-}
 html{
   background-color:#000000;
   z-index:-2;
@@ -168,11 +126,6 @@ html{
      bottom:100px;
   left:233px;
   width:100px;
-}
-.hidden {
-  display: none;
-  width:1px;
-  height:1px;
 }
 button{
   position:relative;
