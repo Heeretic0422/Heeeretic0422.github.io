@@ -15,13 +15,13 @@ a:visited{
     position:absolute;
     width:100%;
     height:598px;
-    z-index:5;
+    z-index:3;
 }
 .h{
     position:absolute;
     width:100%;
     height:598px;
-    z-index:3;
+    z-index:5;
 }
 #h3{
   position:relative;
@@ -126,9 +126,6 @@ html{
   bottom:20px;
   left:233px;
   width:100px;
-}
-.C{
-  display: none;
 }
 .botan{
   position:relative;
