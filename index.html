@@ -9,16 +9,15 @@
  <body>
  <div class="deka">
  <div class="cookie-img">
- <button>.</button>
- <script>
-const button = document.querySelector('button');
-button.addEventListener('click', toggleDisplay);
-
-function toggleDisplay() {
-  const demo = document.querySelector('.cookie-img');
-  demo.classList.toggle('hidden');
-}
- </script>
+ <div id="botan">.</div>
+<script src="https://code.jquery.com/jquery.min.js"></script>
+<script>
+$(function() {
+    $(".botan").click(function() {
+        $(".h").toggleClass("C");
+    });
+});
+</script>
  <spam id="h2">
  <h1>欲望</h1>
  </spam>
