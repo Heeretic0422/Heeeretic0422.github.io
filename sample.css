@@ -121,8 +121,7 @@ html{
 #github1{
   position:relative;
   color:#3d291a;
-  font-size:20px;
-    
+  font-size:20px;  
   left:233px;
   width:100px;
 }
@@ -133,8 +132,8 @@ html{
   position:relative;
   right:645px; 
   top:416px;
-  width:1px;
-  height:1px;
+  width:20px;
+  height:20px;
   z-index:100;
   background:#4D3F3F;
   border:none;
