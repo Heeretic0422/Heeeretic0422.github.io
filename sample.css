@@ -74,7 +74,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:674px;
-  top:110px;
+  top:10px;
   width:100px;
 }
 #pixiv1{
@@ -82,7 +82,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:567px;
-  top:50px;
+  bottom:50px;
   z-index:10;
   width:100px;
 }
@@ -90,7 +90,7 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-  bottom:5px;
+  top:95px;
   left:1130px;
   width:100px;
 }
@@ -99,7 +99,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:1132px;
-  top:5px;
+  bottom:95px;
   z-index:10;
     width:100px;
 }
@@ -108,14 +108,14 @@ html{
   color:#3d291a;
   font-size:20px;
   left:520px;
-  top:142px;
+  top:42px;
     width:200px;
 }
 #crocodile1{
   position:relative;
   color:#3d291a;
   font-size:20px;
-  bottom:70px;
+  top:50px;
   left:950px;
     width:140px;
 }
