@@ -127,6 +127,11 @@ html{
   left:233px;
   width:100px;
 }
+.hidden {
+  display: none;
+  width:1px;
+  height:1px;
+}
 button{
   position:relative;
   right:645px; 
