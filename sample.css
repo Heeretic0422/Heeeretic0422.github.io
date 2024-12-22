@@ -43,14 +43,23 @@ html{
   z-index:4;
 }
 #daily_image{
+    position:relative;
+    top:0px;
+    z-index:4;
     width:33%;
     height:auto;
 }
 #daily1_image{
+    position:relative;
+    top:0px;
+    z-index:4;
     width:33%;
     height:auto;
 }
 #daily2_image{
+    position:relative;
+    top:0px;
+    z-index:4;
     width:33%;
     height:auto;
 }
