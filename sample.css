@@ -40,6 +40,7 @@ html{
   text-align:center;
   width:1366px;
   height:508px; 
+  z-index:4;
 }
 #daily_image{
     width:33%;
