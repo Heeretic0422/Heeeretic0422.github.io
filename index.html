@@ -9,20 +9,15 @@
  <body>
  <div class="deka">
  <div class="cookie-img">
-<button id="botan">.</button>
-<script src="https://code.jquery.com/jquery.min.js"></script>
+<button>.</button>
 <script>
-const toggleButton = document.getElementById('botan');
-const toggleElement = document.getElementById('h');
+const button = document.querySelector('button');
+button.addEventListener('click', toggleDisplay);
 
-toggleButton.addEventListener('click', () => {
-    if (toggleElement.style.display === 'none' || toggleElement.style.display === '') {
-        toggleElement.style.display = 'block';
-    } else {
-        toggleElement.style.display = 'none';
-    }
-});
-
+function toggleDisplay() {
+  const demo = document.querySelector('cookie-img');
+  demo.classList.toggle('hidden');
+}
 </script>
  <spam id="h2">
  <h1>欲望</h1>
@@ -50,7 +45,7 @@ toggleButton.addEventListener('click', () => {
  </div>
  </div>
  </div>
- <div id="h" style="display: none;">
+ <div class="h">
  <div id="ue">
  <span id="h3">
  <h1>欲望</h1>
