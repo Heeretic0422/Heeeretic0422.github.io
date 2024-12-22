@@ -130,6 +130,8 @@ html{
 }
 .botan{
   position:relative;
+  top:350px;
+  left:10px;
   width:20px;
   height:20px;
   z-index:100;
