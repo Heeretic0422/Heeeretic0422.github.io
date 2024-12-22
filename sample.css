@@ -15,19 +15,61 @@ a:visited{
     position:absolute;
     width:100%;
     height:598px;
-    z-index:3;
+    z-index:5;
 }
 .h{
     position:absolute;
     width:100%;
     height:598px;
-    z-index:5;
+    z-index:3;
 }
 #h3{
   position:relative;
   font-size:30px;
   text-align:center;
   color:#ff308d;
+}
+#twitter{
+  position:relative;
+  font-size:20px;
+  bottom:65px;
+    left:26px;
+}
+#pixiv{
+  position:relative;
+  font-size:20px;
+  bottom:65px;
+     left:26px;
+}
+#youtube{
+  position:relative;
+  font-size:20px;
+bottom:65px;
+     left:26px;
+}
+#yu-tyura{
+  position:relative;
+  font-size:20px;
+   bottom:65px;
+     left:26px;
+}
+#cookieclicker{
+  position:relative;
+  font-size:20px;
+   bottom:65px;
+     left:26px;
+}
+#crocodile{
+  position:relative;
+  font-size:20px;
+    bottom:65px;
+     left:26px;
+}
+#github{
+  position:relative;
+  font-size:20px;
+  bottom:65px;
+     left:26px;
 }
 html{
   background-color:#000000;
@@ -64,7 +106,7 @@ html{
   }
 #h2{
   position:relative;
-  bottom:20px;
+  bottom:100px;
   font-size:70px;
   text-align:center;
   color:#000000;
@@ -74,7 +116,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:674px;
-  top:190px;
+  top:110px;
   width:100px;
 }
 #pixiv1{
@@ -82,7 +124,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:567px;
-  top:130px;
+  top:50px;
   z-index:10;
   width:100px;
 }
@@ -90,7 +132,7 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-  top:65px;
+  bottom:5px;
   left:1130px;
   width:100px;
 }
@@ -99,7 +141,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:1132px;
-  top:75px;
+  top:5px;
   z-index:10;
     width:100px;
 }
@@ -108,33 +150,37 @@ html{
   color:#3d291a;
   font-size:20px;
   left:520px;
-  top:222px;
+  top:142px;
     width:200px;
 }
 #crocodile1{
   position:relative;
   color:#3d291a;
   font-size:20px;
-  top:10px;
+  bottom:70px;
   left:950px;
     width:140px;
 }
 #github1{
   position:relative;
   color:#3d291a;
-  font-size:20px;  
-  bottom:20px;
+  font-size:20px;
+     bottom:100px;
   left:233px;
   width:100px;
 }
+.hidden {
+  display: none;
+  width:1px;
+  height:1px;
+}
 button{
   position:relative;
-  top:385px;
-  left:13px;
+  right:645px; 
+  top:416px;
   width:1px;
   height:1px;
   z-index:100;
-  background:#000000;
+  background:#4D3F3F;
   border:none;
-  cursor: pointer;
 }
