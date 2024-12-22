@@ -74,7 +74,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:674px;
-  bottom:190px;
+  top:90px;
   width:100px;
 }
 #pixiv1{
@@ -90,7 +90,7 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-  top:75px;
+  top:65px;
   left:1130px;
   width:100px;
 }
@@ -108,14 +108,14 @@ html{
   color:#3d291a;
   font-size:20px;
   left:520px;
-  bottom:42px;
+  top:142px;
     width:200px;
 }
 #crocodile1{
   position:relative;
   color:#3d291a;
   font-size:20px;
-  top:50px;
+  top:30px;
   left:950px;
     width:140px;
 }
