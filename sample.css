@@ -57,11 +57,11 @@ html{
   background-image:url(cookie-img.jpg);
   background-repeat:no repeat;
   background-size:cover;
+  position:fixed;
   width:1366px;
   height:598px;
   border-style:none;
   text-align:center;
-　position:fixed;
   }
 #h2{
   position:relative;
