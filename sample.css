@@ -137,4 +137,5 @@ html{
   z-index:100;
   background:#000000;
   border:none;
+  cursor: pointer;
 }
