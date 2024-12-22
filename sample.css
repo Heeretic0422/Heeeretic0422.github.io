@@ -176,12 +176,10 @@ html{
   left:233px;
   width:100px;
 }
-.hidden {
+.C{
   display: none;
-  width:1px;
-  height:1px;
 }
-button{
+#botan{
   position:relative;
   right:645px; 
   top:416px;
