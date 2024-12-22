@@ -61,6 +61,7 @@ html{
   height:598px;
   border-style:none;
   text-align:center;
+　position:fixed;
   }
 #h2{
   position:relative;
