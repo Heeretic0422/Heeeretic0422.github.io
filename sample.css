@@ -138,6 +138,14 @@ html{
   left:233px;
   width:100px;
 }
+#pixel1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+     bottom:70px;
+  left:290px;
+  width:100px;
+}
 .hidden {
   display: none;
   width:1px;
