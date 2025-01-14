@@ -145,7 +145,7 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     bottom:-20px;
+     bottom:1px;
   left:240px;
   width:100px;
 }
