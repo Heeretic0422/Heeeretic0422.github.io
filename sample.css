@@ -47,24 +47,27 @@ html{
 }
 #daily_image{
     position:relative;
+    vertical-align: top;
     top:0px;
     z-index:4;
-    width:33%;
-    height:auto;
+    width:auto;
+    height:100%;
 }
 #daily1_image{
     position:relative;
+    vertical-align: top;
     top:0px;
     z-index:4;
-    width:33%;
-    height:auto;
+    width:auto;
+    height:100%;
 }
 #daily2_image{
     position:relative;
+    vertical-align: top;
     top:0px;
     z-index:4;
-    width:33%;
-    height:auto;
+    width:auto;
+    height:100％;
 }
 .cookie-img{
   background-image:url(cookie-img.jpg);
