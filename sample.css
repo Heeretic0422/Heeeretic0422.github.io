@@ -51,8 +51,8 @@ html{
     vertical-align: top;
     top:78px;
     z-index:4;
-    width:auto;
-    height:100%;
+    width:33%;
+    height:auto;
 }
 #daily1_image{
     position:relative;
