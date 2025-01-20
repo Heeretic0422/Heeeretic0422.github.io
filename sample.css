@@ -108,7 +108,7 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-  bottom:5px;
+  bottom:7px;
   left:1130px;
   width:100px;
 }
@@ -117,7 +117,7 @@ html{
   color:#3d291a;
   font-size:20px;
   left:1132px;
-  top:5px;
+  top:1px;
   z-index:10;
     width:100px;
 }
