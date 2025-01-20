@@ -141,8 +141,8 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     top:20px;
-  left:1160px;
+     top:25px;
+  left:1150px;
   width:100px;
 }
 #pixel1{
@@ -165,8 +165,8 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     bottom:50px;
-  left:1060px;
+     bottom:53px;
+  left:1042px;
   width:100px;
 }
 .hidden {
