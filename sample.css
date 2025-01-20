@@ -141,8 +141,8 @@ html{
   position:relative;
   color:#3d291a;
   font-size:20px;
-     bottom:100px;
-  left:233px;
+     bottom:50px;
+  left:1111px;
   width:100px;
 }
 #pixel1{
@@ -151,6 +151,22 @@ html{
   font-size:20px;
      top:45px;
   left:230px;
+  width:100px;
+}
+#discord1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+     bottom:100px;
+  left:233px;
+  width:100px;
+}
+#reddit1{
+  position:relative;
+  color:#3d291a;
+  font-size:20px;
+     top:45px;
+  left:1000px;
   width:100px;
 }
 .hidden {
